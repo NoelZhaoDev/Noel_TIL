@@ -13,7 +13,7 @@ status:
 
 # 🎯 Problem / Context
 
-> How should I express "我应该怎么写README文件合适" in English? What's the best way to express "覆盖范围" and "先后顺序" in English?
+> *How should I express "我应该怎么写README文件合适" in English? What's the best way to express "覆盖范围" and "先后顺序" in English?*
 
 # ✅ Solution / Concept
 
