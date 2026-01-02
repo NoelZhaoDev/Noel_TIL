@@ -11,7 +11,7 @@ status:
 
 # 🎯 Problem / Context 
 
-> *while running inference on the 4-bit quantized Mistral-7B-Instruct with prompt"If the Company notifies the Vendor that it has failed to deliver the Goods, it shall verify the status.Question: Who is the second 'it' referring to?", I observed that the model produced nonsensical responses five trials, which I identified as a clear case of hallucination*
+> *while running **inference** on the **4-bit quantized Mistral-7B-Instruct** with prompt"If the Company notifies the Vendor that it has failed to deliver the Goods, it shall verify the status.Question: Who is the second 'it' referring to?", I observed that the model produced **nonsensical responses** five trials, which I identified as a clear case of **hallucination***
 
 # ✅ Solution / Concept 
 
